@@ -1,3 +1,3 @@
 # whatsapp_status_saver
-whatsapp story saver working for all android devices.
+whatsapp story saver  for all android versions.
 
